@@ -1,7 +1,7 @@
 # merch
 Data and R-code for a paper titled: "How Merchants Get Paid"
 
-Available at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3618759
+Available at: https://dx.doi.org/10.2139/ssrn.3618759 
 
 The are 2 data (RDS) files and an R-code.
 
